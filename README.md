@@ -18,3 +18,6 @@ Factor 7：Amplitude Factor
 4.  Akbas, Ferhat 1981- (2011). The Volatility of Liquidity and Expected Stock Returns. Doctoral dissertation, Texas A & M University.
 5. 《开源证券-市场微观结构研究系列（7）：振幅因子的隐藏结构》-20200516
 
+# Note
+The representation of the factor 7 is not in the ipynb file because adding its representation image would cause problems with the file being too large to upload.
+
