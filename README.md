@@ -8,7 +8,7 @@ Factor 3：VPT（Volume price trend）
 Factor 4：Overnight Gap Factor  
 Factor 5：Coefficient of Variation of Illiquidity  
 Factor 6：Turnover volatility factor  
-Factor7--Amplitude Factor  
+Factor 7：Amplitude Factor  
 
 
 # Reference
