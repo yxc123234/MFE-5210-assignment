@@ -8,6 +8,8 @@ Factor 3：VPT（Volume price trend）
 Factor 4：Overnight Gap Factor  
 Factor 5：Coefficient of Variation of Illiquidity  
 Factor 6：Turnover volatility factor  
+Factor7--Amplitude Factor  
+
 
 # Reference
 1. 《昼夜分离，隔夜跳空与日内反转选股因子》-华安证券  
