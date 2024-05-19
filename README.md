@@ -11,4 +11,5 @@ Factor 6：Turnover volatility factor
 
 # Reference
 1.《昼夜分离，隔夜跳空与日内反转选股因子》-华安证券  
-2.
+2.Kewei Hou, Chen Xue, Lu Zhang, Replicating Anomalies Get access Arrow[J].The Review of Financial Studies, 2020, 33(5): 2019–2133.  
+
